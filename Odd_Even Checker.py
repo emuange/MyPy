@@ -1,5 +1,6 @@
 number = int(input("Please enter a number:\t"))
 
+
 num_check = number%2
 
 if(num_check == 0):
